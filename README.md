@@ -1,4 +1,5 @@
 # 12 Week Go Learning Plan
+version of go: 1.27.1
 
 Slammed together with chatgpt for what i want and tweaked by myself.
 I have a computer science degree but i'm dumb as fuck so i want to actually learn.
